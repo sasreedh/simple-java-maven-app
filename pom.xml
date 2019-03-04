@@ -10,13 +10,6 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-  <distributionManagement>
-	  <snapshotRepository>
-		  <id>deployement></id>
-		  <name>Internal Snapshot Releases</name>
-		  <url>http://54.71.164.216:8081/repository/Hello/</url>
-	  </snapshotRepository>
-  </distributionManagement>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
